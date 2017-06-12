@@ -1,0 +1,29 @@
+{
+  "name": "reddit-comics-bot",
+  "version": "1.0.0",
+  "description": "twitter bot that posts the top comics from /r/comics",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruanmartinelli/reddit-comics-bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "comics"
+  ],
+  "author": "Ruan Martinelli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruanmartinelli/reddit-comics-bot/issues"
+  },
+  "homepage": "https://github.com/ruanmartinelli/reddit-comics-bot#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "node-schedule": "^1.2.3",
+    "twitter": "^1.7.0"
+  }
+}

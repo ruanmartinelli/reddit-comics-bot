@@ -1,0 +1,6 @@
+{
+  "consumer_key": "hi rename this file to config.json",
+  "consumer_secret": "and",
+  "access_token_key": "get you keys at https://apps.twitter.com/ easy right",
+  "access_token_secret": "bye"
+}
