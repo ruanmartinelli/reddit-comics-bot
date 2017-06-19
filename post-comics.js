@@ -46,7 +46,7 @@ module.exports = async () => {
           .post('media/upload', { media: file })
           .then(async (media, response) => {
             const tweet = {
-              status: `"${post.title}" by /u/${post.author}`,
+              status: `"${post.title}" by /u/${post.author} #comics`,
               media_ids: media.media_id_string
             }
 
