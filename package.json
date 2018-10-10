@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/ruanmartinelli/reddit-comics-bot#readme",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.18.0",
     "node-schedule": "^1.2.3",
     "twitter": "^1.7.0"
   }
