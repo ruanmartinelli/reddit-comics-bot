@@ -1,5 +1,7 @@
 # reddit-comics-bot :duck: :robot:
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ruanmartinelli/reddit-comics-bot.svg)](https://greenkeeper.io/)
+
 A Twitter bot that posts the top comics from [/r/comics](https://www.reddit.com/r/comics) on a Twitter profile.
 
 Available at [@alien_comics](https://www.twitter.com/alien_comics).
